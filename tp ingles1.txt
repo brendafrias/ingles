@@ -1,0 +1,42 @@
+		UTN FRA
+Materia: ingles
+
+Practical work 1
+
+Nombre: Frias Brenda Belen
+
+Divicion: 1A
+
+
+
+
+Monitores, a menudo llamados monitores o pantallas son el dispositivo mas  utilizado de una pc. proveen una retroalimentacion instantanea mostrandote textos o lenguajes para trabajar o jugar.
+La mayoria de los monitores de escritorio usan "lcd" o "crt" tecnologias mientras que todas la pc portatiles como las laptops incorporan lcd en consecuencia a su delgado diseño y bajo consumo de energia, monitores lcd (tambien llamados pantallas planas) estan remplazando los (CRTs).
+
+Caracteristicas basicas.
+La resolucion refiere al numero de puntos de colores conocidos como pixeles (elementos de imagen) que contiene la pantalla. Esto se expresa identificando los numeros de pixeles en el eje horizontal y vertical. Una resolucion tipica es 1024x768 .
+
+Pixel: un pixel es una convinacion de rojo verde y azul (RGB) subpixeles.
+
+Dos medidas describen la medida de tu monitor: el perimetro y el tamaño de pantalla. historicamente, los monitores, como la mayoria de los televisores tenian una proporcion de 4:3 - el ancho de la pantalla y la altura y el perimetro de 4x3. en el caso de las pantallas lcd tienen una proporcion de 16:9, muy util para ver peliculas en dvd, jugar juegos y vizualizando multiples ventanas lado a lado. Tv de alta definicion tambien utilizan este formato. El tamaño de visivilidad de la pantalla en diagonal son unas 19 pulgadas contando de izquierda hasta el boton derecho.
+Dentro de la computadora hay una placa de video o una targeta grafica lo cual prosesa imagenes y envida señales al monitor. Monitor ctr usan un cable VGA (adaptadores graficos de video) la cual transforma señales digitales dentro de señales analogicas. Monitores lcd usan una conexion DVI(interfese de video digital) la profundidad de color hace referencia al numero de colores que un monitor puede tener. esto depende del numero de bits  que suelen utilizarse para describir el color de un pixel individual. por ejemplo un monitor vga antiguo son 8 bits de graduacion puede generar 256 colores y un super vga son unos 24 bits de graduacion pueden generar 16.7 millones de colores, monitores con unos 32 bits de graduacion suelen ser utilizados en un video digital, animacion y video juegos para obtener determinados efectos.
+
+Pantalla tecnologica.
+Un lcd es crado por dos (placas de vidreo) con un material liquido cristal entre ellos,los cristales bloquean la luz en distintas cantidades para crear la imagen. La matriz activa lcds usa una tecnologia TFT (cable transistor delgado) en el cual cada pixel tiene su propio cambio. la cantidad de luz del monitor lcd produce lo que llamamos brillo o iluminacion, medido en CD/M2 (candela x mt al cuadrado).
+Un monitor CTR es similar a la tv tradicional, contiene millones de pequeños puntos rojos, verdes y azules que brillan cuando es golpeado por un rayo electrico y viaja atravez de la pantalla creando una imagen visible.
+Pcs pueden ser conectadas en un video proyector, el cual proyecta la imagen en una pantalla grande, estas son utilizadas en presentaciones o aplicaciones de cine en casa.
+En una pantalla plasma como las imagenes son creadas por una descarga que contiene gases(no perjudiciales)  los plasmas permiten pantallas mas grandes y una vista mas amplia siendo ideal para ver peliculas.
+
+luces organicas/ emisores diodes (OLEDs) son una pelicula delgada, los monitores led no requieren una funcion para iluminar desde el fondo. el material emite luces cuando simula una corriente electrica la cual es conocida con el nombre de electrolumencia. estos consumen menos energia, produciendo colores mas llamativos, son flexibles, estos pueden ser doblados y enrrollados cuando no son utilizados
+
+
+1) how many screen types do you can find in the text?
+2)that is a pixel and how is it composed?
+3) which are the desavantages abaut use a lcd monitor?
+4)how do you can to know the size of your display?
+5)is a  CRT monitor to traditional tv set?
+6)when is it necessary to use a video proyector?
+7)how are create the images in a plasma screen?
+8)is it important to get a high resolution screen for you?
+9)what is the electroluminescence?
+10)if you have to buy a computer, which screen type would?
